@@ -1,6 +1,6 @@
 {
   "author": "aryandhi",
-  "name": "gallery",
+  "name": "react-gallery",
   "version": "0.1.0",
   "private": false,
   "dependencies": {
